@@ -1,1 +1,28 @@
-# algorithm_study
+# 📘 Algorithm Course Chapter Overview
+
+- Ch 1. Intro – Course Introduction and Setup  
+- Ch 2. Intro – Basics of Algorithms  
+- Ch 3. Recursion – Basics of Recursive Functions  
+- Ch 4. Recursion – Optimization in Recursion  
+- Ch 5. Recursion – Applications of Recursion  
+- Ch 6. Sorting – Polynomial Time Sorting Algorithms  
+- Ch 7. Sorting – Merge Sort  
+- Ch 8. Sorting – Quick Sort  
+- Ch 9. Sorting – Heap Sort  
+- Ch 10. Sorting – Special Sorting Algorithms  
+- Ch 11. Search – Binary Search  
+- Ch 12. Search – Depth-First Search (DFS)  
+- Ch 13. Search – Breadth-First Search (BFS)  
+- Ch 14. Graph – Graph Data Structures  
+- Ch 15. Graph – Graph Traversal  
+- Ch 16. Graph – Minimum Spanning Tree (MST)  
+- Ch 17. Graph – Shortest Path  
+- Ch 18. Graph – Topological Sort  
+- Ch 19. Dynamic Programming – 1D DP  
+- Ch 20. Dynamic Programming – 2D DP  
+- Ch 21. Strings – Hashing  
+- Ch 22. Strings – KMP Algorithm  
+- Ch 23. Strings – Trie  
+- Ch 24. Geometry – Closest Pair Problem  
+- Ch 25. Geometry – CCW (Counter Clockwise)  
+- Ch 26. Geometry – Convex Hull  
